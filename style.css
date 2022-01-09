@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+}
+
+body {
+  background: rgb(53, 50, 61);
+  font-family: monospace;
+  color: #ffffff;
+  border: 0px solid rgba(0, 0, 0, 0);
+}
+
+#box1 {
+  width: 255px;
+  height: 110px;
+  background: black;
+  position: relative;
+  top: -0px;
+  color: rgb(2, 157, 2);
+  border: 1px solid black;
+}
+#box2 {
+  width: 255px;
+  height: 95px;
+  background: black;
+  position: relative;
+  top: 0px;
+  color: rgb(2, 56, 157);
+  border: 1px solid black;
+}
+#box3 {
+  width: 255px;
+  height: 77px;
+  background: black;
+  position: relative;
+  top: 0px;
+  color: rgb(206, 1, 189);
+  border: 1px solid black;
+}
